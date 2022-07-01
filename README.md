@@ -1,6 +1,3 @@
-poetry install             # 의존성 설치
-poetry shell               # 가상환경에 진입
-python manage.py runserver # 서버 실행
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DongHyeop%20Ko&animation=twinkling&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50" />
 
